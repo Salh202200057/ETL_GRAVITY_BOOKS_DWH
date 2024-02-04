@@ -70,9 +70,3 @@ Gravity Bookstore is a fictional bookstore database capturing information about 
 - ETL SSIS project
 - OLAP SSAS project
 - Mapping Sheet
-
-[Insert download link to the compressed file here]
-
-## Additional Notes
-
-[Add any additional information, challenges faced, or special considerations here]
